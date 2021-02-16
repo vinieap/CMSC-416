@@ -51,17 +51,23 @@ reflections = {
 
 # List of possible responses for bot in regex tuples
 answers = (
+    (r"(Why not)",
+        (
+            "That is something you should be answering.",
+            "I cannot answer that for you, that is something you need to answer yourself."
+        )
+     ),
     (r"You(?:re|'re|\sare) (.*)",
         (
-            "Why do you think I'm %1",
+            "Why do you think I'm %1?",
             "Why do you say that?",
-            "What makes you think I'm %1"
+            "What makes you think I'm %1?"
         )
      ),
 
     (r"How (.*)",
         (
-            "That is a question you must answer yourself",
+            "That is a question you must answer yourself.",
             "Why are you asking that?"
         )
      ),
@@ -104,7 +110,7 @@ answers = (
         )
      ),
 
-    (r"It is (.*)",
+    (r"(?:It\sis|It's) (.*)",
      (
          "Why do you think it is %1?",
          "Is it really?"
@@ -142,7 +148,7 @@ answers = (
         )
      ),
 
-    (r"I want (.*)",
+    (r"I (?:want|wanna) (.*)",
         (
             "Why is it that you want %1?",
             "Why do you want %1?"
@@ -240,21 +246,7 @@ answers = (
      )
      ),
 
-    (r"(?:No|Nah|Nope)(.*)",
-        (
-            "Can you elborate why you said no?",
-            "Why not?"
-        )
-     ),
-
-    (r"(?:Yes|Yeah|Yea|Yep|Of\scourse)(.*)",
-        (
-            "Can you elborate why you said yes?",
-            "Why?"
-        )
-     ),
-
-    (r"Goodbye(.*)",
+    (r"(?:Good)?bye(.*)",
         (
             "Goodbye {name}.",
             "See you next time {name}.",
@@ -270,7 +262,7 @@ answers = (
      ),
 
     # Check for any positive associations
-    (r"(good|great|excellent|exceptional|marvelous|satisfying|superb|wonderful|nice|awesome|amazing)",
+    (r"(?:.*)(good|great|excellent|exceptional|marvelous|satisfying|superb|wonderful|nice|awesome|amazing)",
         (
             "Why do you think it's %1?",
             "Why do you feel positively about that?"
@@ -294,6 +286,19 @@ answers = (
         )
      ),
 
+    (r"(?:No|Nah|Nope)(.*)",
+        (
+            "Can you elborate why you said no?",
+            "Why not?"
+        )
+     ),
+
+    (r"(?:Yes|Yeah|Yea|Yep|Of\scourse)(.*)",
+        (
+            "Can you elborate why you said yes?",
+            "Why?"
+        )
+     ),
     (r"(.*)",
         (
             "Can you elaborate more?",
@@ -326,16 +331,24 @@ def reflective_transformation(query):
 def intro():
     global name
 
+    # Get only words with capital letters
+    r = re.compile('[A-Z]')
+    
     # Introduce bot
     print(f"{eliza} Hello my name is Eliza and I'm a psychotheraphist bot.")
     print(f"{eliza} Whenever you feel tired of the conversation, please say 'Goodbye'.")
-    print(f"{eliza} What is your name?")
+    print(f"{eliza} What is your name? (Name needs to be captial)")
+
+    # NAME HAS TO BE CAPTIAL
 
     # Split user's response into list of strings
-    intro = input("USER> ").split(' ')
+    while True:
+        intro = input("USER> ")
+        if any(letter.isupper() for letter in intro):
+            break
+        print("Please capitalize your name")
 
-    # Get only words with capital letters
-    r = re.compile('[A-Z]')
+    intro = intro.split(' ')
 
     # Typically the name is the last capital word in an introduction
     name = remove_punctuation(list(filter(r.match, intro))[-1])
@@ -347,7 +360,7 @@ def parse_answer(query):
     query = remove_punctuation(query)
 
     # Compile exiting statement
-    goodbye = re.compile(r'goodbye', re.I)
+    goodbye = re.compile(r'(?:good)?bye', re.I)
 
     # Loop through all possible responses and get first response with match
     for (response, answer) in responses:
