@@ -1,22 +1,86 @@
 '''
 Author: Vinit Patel
 Class: CMSC-416-001-2021Spring
+PA: Eliza Bot
+Date: 02/16/2021
 
-Eliza Bot:
-----------
-A bot that acts as a psychotheraphist and responds to whatever the user says.
+------------------------------------------------------------------------------
+A chat bot that acts as a psychotheraphist and attempts to respond to whatever
+the user says.
 
 What the bot looks for:
-______________________________________________________________________________
+------------------------------------------------------------------------------
 The bot looks for words that are typically associated with feelings,
 such as love, hate, feel, and questions. This allows for a more directed
 conversation and a narrower range of responses that the user could input and
 improves the bots ability to respond properly.
-______________________________________________________________________________
+------------------------------------------------------------------------------
+
+
 
 *********************************************************************
 *** Proper capitalization, punctuation, and grammar are expected. ***
 *********************************************************************
+
+Starting the program:
+=====================
+$ python3 eliza.py
+        or
+$ python eliza.py
+=====================
+
+Example input:
+---------------
+Introduction:
+=============
+ELIZA> What is your name?
+
+Optional ways to answer:
+~~~~~~~~~~~~~~~~~~~~~~~~
+1. USER> My name is Name.
+2. USER> Name.
+3. USER> Name is my name.
+4. USER> I'm Name.
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sample Conversation:
+====================
+ELIZA> Hi Name. How can I help you today?
+
+Optional ways to answer:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Name> I want to be happy.
+2. Name> I need to do my homework.
+3. Name> Me and my friend got in an argument.
+4. Name> What is the meaning of life?
+5. Name> How can I stop procrastinating?
+and more...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ending Conversation:
+====================
+1. Name> Goodbye.
+2. Name> bye
+3. Name> bye bye Eliza
+
+
+
+Algorithm:
+----------
+ - Store a large tuple of possible responses the user might input
+   - Each tuple element is a pair of (regex , (response 1, response 2, ...))
+
+ - Store a dictionary of reflections where the response turns from
+   the POV of the user to the POV of the bot for better immersion
+
+ - Loop endlessly until the user says some form of bye
+   - Take input from the user
+   - Loop over the regex tuple for possible pattern matches
+   - If match is found then pick random response
+   - Replace any captured patterns, names, and reflections
+   - Return the chat bot's respose
+ - End loop
+
 '''
 
 import re
@@ -29,7 +93,7 @@ eliza = "ELIZA>"
 # Used for User name usage
 name = None
 
-# Reflects personal pronouns for responses
+# All possible reflections for User POV to Bot POV
 reflections = {
     "i am": "you are",
     "i was": "you were",
@@ -51,12 +115,15 @@ reflections = {
 
 # List of possible responses for bot in regex tuples
 answers = (
+    # Check for generic negative question
     (r"(Why not)",
         (
             "That is something you should be answering.",
             "I cannot answer that for you, that is something you need to answer yourself."
         )
      ),
+
+    # Check bot focused statement
     (r"You(?:re|'re|\sare) (.*)",
         (
             "Why do you think I'm %1?",
@@ -65,6 +132,16 @@ answers = (
         )
      ),
 
+    # Check bot focused statement
+    (r"You (.*)",
+        (
+            "Let's talk about you not me.",
+            "Why do you think that?",
+            "Why do you feel that way?"
+        )
+     ),
+
+    # Check generic 'how' question
     (r"How (.*)",
         (
             "That is a question you must answer yourself.",
@@ -72,6 +149,7 @@ answers = (
         )
      ),
 
+    # Check apologies
     (r"(?:I\sam|I'?m) sorry (.*)",
         (
             "Don't be sorry.",
@@ -80,6 +158,7 @@ answers = (
         )
      ),
 
+    # Check reasoning
     (r"(?:Be)?cause (.*)",
         (
             "Do you truly feel that is valid reasoning?",
@@ -87,6 +166,7 @@ answers = (
         )
      ),
 
+    # Check generic question
     (r"Is it (.*)",
         (
             "Do you think it is %1?",
@@ -94,6 +174,7 @@ answers = (
         )
      ),
 
+    # Check present or future statements
     (r"I(?:\swould|'?d) (.*)",
         (
             "Why would you %1?",
@@ -102,6 +183,7 @@ answers = (
         )
      ),
 
+    # Check future promises
     # Checks for (I will, I'll, I'm gonna, I am gonna, I'm going to, and I am going to)
     (r"I(?:\swill|'?ll|'?m\sgonna|\sam\sgonna|'?m\sgoing\sto|\sam\sgoing\to) (.*)",
         (
@@ -110,6 +192,7 @@ answers = (
         )
      ),
 
+    # Check statement
     (r"(?:It\sis|It's) (.*)",
      (
          "Why do you think it is %1?",
@@ -117,6 +200,7 @@ answers = (
      )
      ),
 
+    # Check bot focused statement
     (r"Are you (.*)",
      (
          "Why are you asking that?",
@@ -125,6 +209,7 @@ answers = (
      )
      ),
 
+    # Check targeted question
     (r"What is (.*)",
         (
             "What do you think %1 is?",
@@ -132,6 +217,7 @@ answers = (
         )
      ),
 
+    # Check generic question
     (r"What (.*)",
         (
             "What do you think?",
@@ -139,6 +225,7 @@ answers = (
         )
      ),
 
+    # Check necessities
     (r"I need (.*)",
         (
             "Why is it that you need %1?",
@@ -148,6 +235,7 @@ answers = (
         )
      ),
 
+    # Check desires
     (r"I (?:want|wanna) (.*)",
         (
             "Why is it that you want %1?",
@@ -155,6 +243,7 @@ answers = (
         )
      ),
 
+    # Check positive statement
     (r"I love (.*)",
         (
             "Tell me why you love %1.",
@@ -162,6 +251,7 @@ answers = (
         )
      ),
 
+    # Check negative statement
     (r"I hate (.*)",
         (
             "Tell me why you hate %1.",
@@ -169,6 +259,7 @@ answers = (
         )
      ),
 
+    # Check family related statement
     (r"(?:.*) (family|husband|wife|father|mother|brother|sister|daughter|son|child|grandmother|grandfather|grandpa|grandma|mom|dad)",
      (
          "Tell me more about your %1?",
@@ -177,6 +268,7 @@ answers = (
      )
      ),
 
+    # Check school statement
     (r"(?:.*) (school)",
      (
          "Can you expand on how school makes you feel?",
@@ -184,6 +276,7 @@ answers = (
      )
      ),
 
+    # Check friendship related statement
     (r"(?:.*) (friends?)",
      (
          "How is your relationship with your %1?",
@@ -191,6 +284,7 @@ answers = (
      )
      ),
 
+    # Check opinionated statement
     (r"I think (.*)",
         (
             "Why do you think that?",
@@ -208,6 +302,7 @@ answers = (
 
      ),
 
+    # Check feeling statement
     (r"(?:I|I'?m) feel(?:ing)? (.*)",
         (
             "Why do you feel %1?",
@@ -217,6 +312,7 @@ answers = (
         )
      ),
 
+    # Check self describing statement
     (r"(?:I'?m|I am) (.*)",
         (
             "Why are you %1?",
@@ -224,6 +320,7 @@ answers = (
         )
      ),
 
+    # Check unsure answer
     (r"I don(?:'?t) know",
         (
             "Why do you think you don't know?",
@@ -232,6 +329,7 @@ answers = (
         )
      ),
 
+    # Check generic self question
     (r"Can I (.*)",
      (
          "Is there a reason you cannot $1?",
@@ -239,6 +337,7 @@ answers = (
      )
      ),
 
+    # Check generic question
     (r"Why (.*)",
      (
          "What is your thoughts on that?",
@@ -246,6 +345,7 @@ answers = (
      )
      ),
 
+    # Check for exit key word
     (r"(?:Good)?bye(.*)",
         (
             "Goodbye {name}.",
@@ -254,6 +354,7 @@ answers = (
         )
      ),
 
+    # Check for school related response
     (r"(?:.*) (homework|assignments?|projects?|work)",
      (
          "Have you been keeping up with your %1?",
@@ -286,6 +387,7 @@ answers = (
         )
      ),
 
+    # Check generic negative response
     (r"(?:No|Nah|Nope)(.*)",
         (
             "Can you elborate why you said no?",
@@ -293,12 +395,15 @@ answers = (
         )
      ),
 
+    # Check generic positive response
     (r"(?:Yes|Yeah|Yea|Yep|Of\scourse)(.*)",
         (
             "Can you elborate why you said yes?",
             "Why?"
         )
      ),
+
+    # Default to this
     (r"(.*)",
         (
             "Can you elaborate more?",
@@ -402,5 +507,6 @@ def main():
         query = input(f"{name}> ")
 
 
+# Start program and run main loop
 if __name__ == '__main__':
     main()
