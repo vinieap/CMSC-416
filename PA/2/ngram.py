@@ -171,9 +171,19 @@ def main():
     for filename in filenames:
         sentences.extend(parseFile(filename, nGram))
 
+    token_total = 0
+
+    for sentence in sentences:
+        token_total += len(sentence)
+
     table = getFreqTable(createNgramTable(sentences, nGram))
 
-    print(table)
+    # DEBUG
+    # print(table)
+
+    print(f"[DEBUG] # of Tokens: {token_total}")
+    print(f"[DEBUG] # of Sentences: {len(sentences)}")
+    print(f"[DEBUG] Table Length: {len(table)}")
 
 
 if __name__ == '__main__':
