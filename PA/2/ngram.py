@@ -1,11 +1,36 @@
+'''
+Author: Vinit Patel
+Class: CMSC-416-001-2021Spring
+Programming Assignment: Ngram Language Model
+Date: 03/02/2021
+
+-------------------------------------------------------------------
+An ngram language model that generates a given number of sentences
+based on text files given in
+-------------------------------------------------------------------
+
+Starting the program:
+=============================================
+$ python3 ngram n m
+        or
+$ python ngram n m
+
+where:
+    n - number of previous words to consider
+    m - number of sentences to generate
+=============================================
+'''
+
 import sys
 import re
 
 
 def metaInfo():
     print("Author: Vinit Patel")
+    print("Class: CMSC-416-001-2021Spring")
+    print("Date: 03/02/2021")
     print("N-gram Language Model")
-    print("----------------------")
+    print("----------------------------")
 
 
 def getParameters():
@@ -36,6 +61,64 @@ def getParameters():
     # print(f"nGram: {nGram}")
     # print(f"Number of sentences: {numOuputSentences}")
     # print(f"Files: {filenames}")
+
+
+def updateTable(table, word, previousWords):
+    if previousWords in table:
+        if word in table[previousWords]:
+            table[previousWords][word] += 1
+        else:
+            table[previousWords][word] = 1
+    else:
+        table[previousWords] = {word: 1}
+
+    return table
+
+
+def updatePreviousWords(previousWords, word):
+    newWords = list(previousWords[1:]) + [word]
+
+    return tuple(newWords)
+
+
+def createNgramTable(sentences, nGram):
+    previousWords = list()
+
+    for n in range(nGram):
+        previousWords.append("[BEGIN]")
+
+    tuplePreviousWords = tuple(previousWords)
+
+    table = {tuplePreviousWords: {}}
+
+    for sentence in sentences:
+        for word in sentence:
+
+            table = updateTable(table, word, tuplePreviousWords)
+
+            tuplePreviousWords = updatePreviousWords(tuplePreviousWords, word)
+
+        table = updateTable(table, '[END]', tuplePreviousWords)
+        tuplePreviousWords = tuple(previousWords)
+
+    # print(table)
+
+    return table
+
+
+def getFreqTable(table):
+    for _, words in table.items():
+        count = 0
+        previous = 0
+
+        for k in words:
+            count += words[k]
+
+        for k in words:
+            previous += words[k] / count
+            words[k] = previous
+
+    return table
 
 
 def parseLine(word):
@@ -88,7 +171,9 @@ def main():
     for filename in filenames:
         sentences.extend(parseFile(filename, nGram))
 
-    print(sentences)
+    table = getFreqTable(createNgramTable(sentences, nGram))
+
+    print(table)
 
 
 if __name__ == '__main__':
