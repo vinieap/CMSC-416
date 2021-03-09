@@ -1,0 +1,33 @@
+Incorrect: 9581, Total: 56824
+Accuracy: 83.14%
+Biggest Inaccuracies:
+{
+  "new": {
+    "/nnp": 56,
+    "/jj": 83
+  },
+  "'s": {
+    "/pos": 507,
+    "/vbz": 77
+  },
+  "that": {
+    "/wdt": 138,
+    "/in": 314,
+    "/dt": 103,
+    "/rb": 1
+  },
+  "about": {
+    "/rb": 105,
+    "/in": 73,
+    "/rp": 2,
+    "/jj": 1
+  },
+  "have": {
+    "/vb": 67,
+    "/vbp": 149
+  },
+  "more": {
+    "/jjr": 73,
+    "/rbr": 55
+  }
+}
