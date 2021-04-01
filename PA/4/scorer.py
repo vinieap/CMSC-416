@@ -1,7 +1,7 @@
 '''
 Author: Vinit Patel
 Date: 03/30/2021
-Assignment: Word Sense Disambiguation (Decision List)
+Assignment: Word-Sense Disambiguation (Decision List)
 File: scorer.py
 
 ===========
@@ -21,7 +21,6 @@ Algorithm:
 4. Create Pandas Series for predictions and keys
 5. Use pandas.crosstab to create confusion matrix
 6. Print out information and confusion matrix
-
 '''
 import sys
 from wsd import getSenses
