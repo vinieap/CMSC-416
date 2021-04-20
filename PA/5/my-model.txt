@@ -1,0 +1,5566 @@
+1-gram Model
+-------------------------
+Feature: ('does',)
+Negative: 3
+Log-likelihood: 1.8483924814931874
+
+Feature: ('@user',)
+Positive: 93
+Log-likelihood: 1.218425747315889
+
+Feature: ('still',)
+Negative: 4
+Log-likelihood: 1.4827712556776065
+
+Feature: ('believe',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('that',)
+Positive: 9
+Log-likelihood: 1.2371317063813096
+
+Feature: ('ms',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('angela',)
+Negative: 14
+Log-likelihood: 2.106301281542701
+
+Feature: ('merkel',)
+Negative: 13
+Log-likelihood: 2.0602786874728265
+
+Feature: ('is',)
+Positive: 42
+Log-likelihood: 1.2516216429683618
+
+Feature: ('the',)
+Positive: 100
+Log-likelihood: 1.2424363550798954
+
+Feature: ('real',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('leader',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('of',)
+Positive: 33
+Log-likelihood: 1.1752428008492524
+
+Feature: ('free',)
+Positive: 8
+Log-likelihood: 1.1157177565710485
+
+Feature: ('world',)
+Negative: 4
+Log-likelihood: 1.4827712556776065
+
+Feature: ('greeks',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('may',)
+Positive: 25
+Log-likelihood: 1.2676591197050242
+
+Feature: ('disagree',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('by',)
+Positive: 6
+Log-likelihood: 1.3334987678546943
+
+Feature: ('michael',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('nienaber',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('berlin',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('july',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('10',)
+Positive: 4
+Log-likelihood: 1.3057701718493198
+
+Feature: ('reuters',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('parties',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('in',)
+Positive: 36
+Log-likelihood: 1.2163953243244934
+
+Feature: ("merkel's",)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('coalition',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('government',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('sent',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('conflicting',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('signals',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('on',)
+Positive: 77
+Log-likelihood: 1.0973655394287625
+
+Feature: ('latest',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('i',)
+Positive: 41
+Log-likelihood: 1.1929976252712935
+
+Feature: ('was',)
+Negative: 10
+Log-likelihood: 1.7538681558935152
+
+Feature: ('really',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('excited',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('for',)
+Positive: 39
+Log-likelihood: 1.2496308614242435
+
+Feature: ('amazon',)
+Positive: 87
+Log-likelihood: 1.1785650566170882
+
+Feature: ('prime',)
+Positive: 56
+Log-likelihood: 1.1958757831568183
+
+Feature: ('day',)
+Positive: 29
+Log-likelihood: 1.3316163512074723
+
+Feature: ('sale',)
+Negative: 5
+Log-likelihood: 1.7538681558935152
+
+Feature: ('but',)
+Positive: 9
+Log-likelihood: 1.351476129279993
+
+Feature: ('everything',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('garbage',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('better',)
+Negative: 3
+Log-likelihood: 4
+
+Feature: ('than',)
+Positive: 10
+Log-likelihood: 1.3225199960297678
+
+Feature: ('black',)
+Positive: 15
+Log-likelihood: 1.3862943611198906
+
+Feature: ('friday',)
+Positive: 27
+Log-likelihood: 1.2899478106473279
+
+Feature: ('my',)
+Positive: 23
+Log-likelihood: 1.3167328823211932
+
+Feature: ('butt',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('its',)
+Negative: 5
+Log-likelihood: 1.5693268048187619
+
+Feature: ('if',)
+Positive: 9
+Log-likelihood: 1.2770640594149767
+
+Feature: ('you',)
+Positive: 40
+Log-likelihood: 1.1157177565710485
+
+Feature: ('are',)
+Positive: 8
+Log-likelihood: 1.2623203210324219
+
+Feature: ('into',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('buying',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('useless',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('crap',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('this',)
+Positive: 22
+Log-likelihood: 1.1812541427701932
+
+Feature: ("isn't",)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('worth',)
+Negative: 3
+Log-likelihood: 1.8483924814931874
+
+Feature: ('having',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('at',)
+Positive: 28
+Log-likelihood: 1.1002174151654258
+
+Feature: ('all',)
+Positive: 8
+Log-likelihood: 1.3470185559050876
+
+Feature: ('it',)
+Positive: 36
+Log-likelihood: 1.2058216282405076
+
+Feature: ('just',)
+Positive: 27
+Log-likelihood: 1.0873538354905439
+
+Feature: ('me',)
+Positive: 6
+Log-likelihood: 1.2163953243244934
+
+Feature: ('or',)
+Positive: 6
+Log-likelihood: 1.2163953243244934
+
+Feature: ('less',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('and',)
+Positive: 41
+Log-likelihood: 1.1737696540264884
+
+Feature: ('more',)
+Positive: 10
+Log-likelihood: 1.2886686097224138
+
+Feature: ('your',)
+Positive: 9
+Log-likelihood: 1.2770640594149767
+
+Feature: ('weird',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ("neighbor's",)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('garage',)
+Negative: 3
+Log-likelihood: 4
+
+Feature: ('pretty',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('much',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('a',)
+Positive: 47
+Log-likelihood: 1.2745734047872126
+
+Feature: ('bust',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('point',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('up',)
+Positive: 6
+Log-likelihood: 1.3334987678546943
+
+Feature: ('to',)
+Positive: 73
+Log-likelihood: 1.2033389730748858
+
+Feature: ('save',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('us',)
+Positive: 7
+Log-likelihood: 1.188916479795775
+
+Feature: ('what',)
+Negative: 6
+Log-likelihood: 1.5271512197902584
+
+Feature: ('fuss',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('about',)
+Positive: 6
+Log-likelihood: 1.3334987678546943
+
+Feature: ("amazon's",)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('promised',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('massive',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('deals',)
+Positive: 7
+Log-likelihood: 1.188916479795775
+
+Feature: ('rivaling',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('as',)
+Positive: 10
+Log-likelihood: 1.0939293407637276
+
+Feature: ('root',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('canal',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('christmas',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('hype',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ("didn't",)
+Negative: 4
+Log-likelihood: 2.0117973905426254
+
+Feature: ('live',)
+Positive: 7
+Log-likelihood: 1.068251140996181
+
+Feature: ('delivery',)
+Positive: 4
+Log-likelihood: 1.2163953243244934
+
+Feature: ('where',)
+Negative: 3
+Log-likelihood: 4
+
+Feature: ('truly',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('failed',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('their',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('moment',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('they',)
+Negative: 6
+Log-likelihood: 2.270228507231199
+
+Feature: ('claimed',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ("it'd",)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('have',)
+Positive: 22
+Log-likelihood: 1.2823594662385742
+
+Feature: ('bigger',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('beats',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('says',)
+Positive: 3
+Log-likelihood: 1.3862943611198906
+
+Feature: ('retailer',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('been',)
+Negative: 8
+Log-likelihood: 2.4718776495032473
+
+Feature: ('an',)
+Positive: 8
+Log-likelihood: 1.3057701718493198
+
+Feature: ('excuse',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('retail',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('well',)
+Positive: 2
+Log-likelihood: 1.3862943611198906
+
+Feature: ('kind',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('sucked',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('hoping',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('huh',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('big',)
+Positive: 6
+Log-likelihood: 1.0790547587908086
+
+Feature: ('hit',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ("there's",)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('#primedayfail',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('hashtag',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('trending',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('5',)
+Negative: 3
+Log-likelihood: 1.5271512197902584
+
+Feature: ('our',)
+Positive: 6
+Log-likelihood: 1.1507282898071236
+
+Feature: ('reports',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('gone',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('wrong',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('equivalent',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('drinking',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('alone',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('home',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('night',)
+Positive: 9
+Log-likelihood: 1.0536051565782627
+
+Feature: ('turn',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('supposed',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('put',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('shopping',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('dust',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('many',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('say',)
+Negative: 3
+Log-likelihood: 1.8483924814931874
+
+Feature: ("it's",)
+Positive: 11
+Log-likelihood: 1.1630809811393985
+
+Feature: ('then',)
+Positive: 5
+Log-likelihood: 1.2533430113219615
+
+Feature: ("i'm",)
+Positive: 7
+Log-likelihood: 1.1309149272640773
+
+Feature: ('going',)
+Positive: 9
+Log-likelihood: 1.1951055354072815
+
+Feature: ('sleep',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('should',)
+Positive: 3
+Log-likelihood: 1.2770640594149767
+
+Feature: ('called',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('knew',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('friend',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('mine',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('no',)
+Negative: 6
+Log-likelihood: 1.8483924814931874
+
+Feature: ('scam',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('like',)
+Positive: 6
+Log-likelihood: 1.2163953243244934
+
+Feature: ('ass',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('explaining',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('crying',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('child',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('germany',)
+Negative: 3
+Log-likelihood: 1.8483924814931874
+
+Feature: ('might',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('deport',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('her',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('has',)
+Negative: 8
+Log-likelihood: 1.4827712556776065
+
+Feature: ('brought',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('tear',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('eye',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('tells',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('sobbing',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('asylum',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('seeker',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('why',)
+Negative: 8
+Log-likelihood: 2.4718776495032473
+
+Feature: ('she',)
+Positive: 4
+Log-likelihood: 1.3862943611198906
+
+Feature: ('cannot',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('stay',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('palestinian',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('get',)
+Positive: 12
+Log-likelihood: 1.1507282898071236
+
+Feature: ('civilized',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('islam',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('stop',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('crowding',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('with',)
+Positive: 32
+Log-likelihood: 1.102171998552411
+
+Feature: ('barbaric',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('ways',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('needs',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('kick',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('him',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('nuts',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('1st',)
+Positive: 7
+Log-likelihood: 1.2935916017584486
+
+Feature: ('time',)
+Negative: 9
+Log-likelihood: 1.5271512197902584
+
+Feature: ('trump',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('calls',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('anyone',)
+Negative: 3
+Log-likelihood: 1.5271512197902584
+
+Feature: ('around',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('g8',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('table',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('loser',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('ordered',)
+Positive: 6
+Log-likelihood: 1.2163953243244934
+
+Feature: ('pc',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('parts',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('one',)
+Positive: 8
+Log-likelihood: 1.2623203210324219
+
+Feature: ('shipping',)
+Negative: 3
+Log-likelihood: 1.8483924814931874
+
+Feature: ("haven't",)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('received',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('item',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('yet',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('now',)
+Positive: 7
+Log-likelihood: 1.2429590902934076
+
+Feature: ('monday',)
+Positive: 3
+Log-likelihood: 1.2770640594149767
+
+Feature: ('very',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('dissatisfied',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('run',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('4th',)
+Negative: 3
+Log-likelihood: 1.5271512197902584
+
+Feature: ('term',)
+Negative: 4
+Log-likelihood: 4
+
+Feature: ('happens',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('africa',)
+Negative: 3
+Log-likelihood: 4
+
+Feature: ('un',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('g7',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('etc',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('will',)
+Positive: 17
+Log-likelihood: 1.1587433421795792
+
+Feature: ('be',)
+Positive: 29
+Log-likelihood: 1.141225836679627
+
+Feature: ('planning',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('invade',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('country',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('hypocrites',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('#africa',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('dear',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('newooffice',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('mac',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('great',)
+Positive: 4
+Log-likelihood: 1.2163953243244934
+
+Feature: ('lync',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('update',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ("c'mon",)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('heads',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('important',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('change',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('effective',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('august',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('1',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('limit',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('how',)
+Positive: 2
+Log-likelihood: 1.3862943611198906
+
+Feature: ('can',)
+Positive: 7
+Log-likelihood: 1.1309149272640773
+
+Feature: ('share',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('p',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('downgrading',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('let',)
+Negative: 3
+Log-likelihood: 4
+
+Feature: ('#windows10',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('out',)
+Positive: 9
+Log-likelihood: 1.103688825041831
+
+Feature: ('almost',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('yr',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('b4',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('trying',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('again',)
+Positive: 3
+Log-likelihood: 1.3862943611198906
+
+Feature: ('#windows10fail',)
+Negative: 3
+Log-likelihood: 4
+
+Feature: ('after',)
+Negative: 3
+Log-likelihood: 1.8483924814931874
+
+Feature: ('attempting',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('reinstall',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('bricks',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('windows',)
+Negative: 5
+Log-likelihood: 2.1501113630736657
+
+Feature: ('finish',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('installing',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('somesuch',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('cost',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('600',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('did',)
+Positive: 4
+Log-likelihood: 1.2163953243244934
+
+Feature: ('break',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('working',)
+Negative: 3
+Log-likelihood: 1.8483924814931874
+
+Feature: ('fine',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('wednesday',)
+Positive: 6
+Log-likelihood: 1.0790547587908086
+
+Feature: ("can't",)
+Positive: 4
+Log-likelihood: 1.2163953243244934
+
+Feature: ('passed',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('login',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('screen',)
+Positive: 3
+Log-likelihood: 1.3862943611198906
+
+Feature: ('without',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('freezing',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('high',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('startup',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('impact',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('clue',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('support',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('365',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('terrible',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('phone',)
+Positive: 3
+Log-likelihood: 1.3862943611198906
+
+Feature: ('hour',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('got',)
+Positive: 3
+Log-likelihood: 1.1507282898071236
+
+Feature: ('dropped',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('so',)
+Positive: 5
+Log-likelihood: 1.2533430113219615
+
+Feature: ('far',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('not',)
+Negative: 9
+Log-likelihood: 1.6016302045040236
+
+Feature: ('headache',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('ask',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('refund',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('arriving',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('tuesday',)
+Positive: 3
+Log-likelihood: 1.2770640594149767
+
+Feature: ('decidedly',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('least',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('ever',)
+Negative: 3
+Log-likelihood: 4
+
+Feature: ('wha',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('happen',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('would',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('want',)
+Positive: 3
+Log-likelihood: 1.2770640594149767
+
+Feature: ('form',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('metallica',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('cover',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('band',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('upside',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('lucky',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('open',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('ac/dc',)
+Positive: 34
+Log-likelihood: 1.0145637905638305
+
+Feature: ("she's",)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('dogs',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('right',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('fix',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('75',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('minutes',)
+Positive: 3
+Log-likelihood: 1.1507282898071236
+
+Feature: ('being',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('hold',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('india',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('800',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('936',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('5700',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('adrian',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('wants',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('transfer',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('call',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('3rd',)
+Negative: 5
+Log-likelihood: 1.4596743891893917
+
+Feature: ('migration',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('european',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('crisis',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('heard',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('software',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('company',)
+Positive: 4
+Log-likelihood: 1.1157177565710485
+
+Feature: ('most',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('bad',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('replaced',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('party',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('apps',)
+Negative: 3
+Log-likelihood: 1.8483924814931874
+
+Feature: ('10yrs',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('power',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('seeking',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('imagine',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('african',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('daily',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('updates',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('suck',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('w/',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('drones',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('u',)
+Negative: 4
+Log-likelihood: 4
+
+Feature: ('4',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('maybe',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('guys',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('could',)
+Positive: 4
+Log-likelihood: 1.2163953243244934
+
+Feature: ('cables',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('bumped',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('from',)
+Positive: 15
+Log-likelihood: 1.1228466958050944
+
+Feature: ('delivered',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('today',)
+Positive: 10
+Log-likelihood: 1.0939293407637276
+
+Feature: ('thanks',)
+Positive: 3
+Log-likelihood: 1.1507282898071236
+
+Feature: ('feeling',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('here',)
+Positive: 11
+Log-likelihood: 1.0858515503105803
+
+Feature: ('thought',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('retiring',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('lumia',)
+Negative: 4
+Log-likelihood: 4
+
+Feature: ('line',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('give',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('way',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('surface',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('mobile',)
+Negative: 3
+Log-likelihood: 4
+
+Feature: ('guess',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('limited',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('eternally',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('lasting',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('amp',)
+Positive: 5
+Log-likelihood: 1.177652828174245
+
+Feature: ('plz',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('shove',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('cortana',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('sun',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ("doesn't",)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('shine',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('3',)
+Negative: 3
+Log-likelihood: 1.5271512197902584
+
+Feature: ('items',)
+Positive: 2
+Log-likelihood: 1.3862943611198906
+
+Feature: ('yesterday',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('arrive',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('saturday',)
+Positive: 4
+Log-likelihood: 1.2163953243244934
+
+Feature: ('2',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('days',)
+Negative: 3
+Log-likelihood: 1.5271512197902584
+
+Feature: ('another',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('sunday',)
+Positive: 4
+Log-likelihood: 1.2163953243244934
+
+Feature: ('third',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ("i've",)
+Positive: 2
+Log-likelihood: 1.3862943611198906
+
+Feature: ('told',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('5th',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('case',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('number',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('escalated',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('level',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('ii',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('tech',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('spending',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('wanted',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('spend',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('need',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('refugees',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('due',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('long',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('penises',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('record',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('movies',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('these',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('cultures',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('do',)
+Positive: 3
+Log-likelihood: 1.2770640594149767
+
+Feature: ('belong',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('eu',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('2nd',)
+Positive: 4
+Log-likelihood: 1.2163953243244934
+
+Feature: ('charged',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('something',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('wasnt',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('made',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('aware',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('person',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('care',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('cityman',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('looks',)
+Positive: 3
+Log-likelihood: 1.1507282898071236
+
+Feature: ('blue',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('cyan',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('buttons',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('too',)
+Positive: 3
+Log-likelihood: 1.2770640594149767
+
+Feature: ('small',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('#lumia',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('730/735',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('superior',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('look',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('aftr',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('network',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('drop',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('streaming',)
+Positive: 5
+Log-likelihood: 1.0939293407637276
+
+Feature: ('deal',)
+Positive: 3
+Log-likelihood: 1.1507282898071236
+
+Feature: ('years',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('make',)
+Positive: 3
+Log-likelihood: 1.2770640594149767
+
+Feature: ('show',)
+Positive: 7
+Log-likelihood: 1.068251140996181
+
+Feature: ('unsignable',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('season',)
+Positive: 4
+Log-likelihood: 1.1157177565710485
+
+Feature: ('anybdy',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('please',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('release',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('versions',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('when',)
+Positive: 4
+Log-likelihood: 1.2163953243244934
+
+Feature: ('stable',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('near',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('diff',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('bitlocker',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('=at',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('some',)
+Positive: 5
+Log-likelihood: 1.0939293407637276
+
+Feature: ('platforms',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('provide',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('data',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('rest',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('encryption',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('built',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('favour',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('sink',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('thing',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('gunboat',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('leave',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('hard',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('reset',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('password',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('ridiculous',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('sure',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('stopped',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('place',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('mail',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('calendar',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('music',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('video',)
+Positive: 3
+Log-likelihood: 1.2770640594149767
+
+Feature: ('rewritten',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('four',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('nobody',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('said',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('any',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('outside',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('ran',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('seems',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('bit',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('off',)
+Positive: 6
+Log-likelihood: 1.1507282898071236
+
+Feature: ('chew',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('state',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('w10',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('core',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('hey',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('fuck',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ("don't",)
+Positive: 4
+Log-likelihood: 1.3057701718493198
+
+Feature: ('internet',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('until',)
+Negative: 3
+Log-likelihood: 1.5271512197902584
+
+Feature: ('thursday',)
+Positive: 11
+Log-likelihood: 1.0441365238755578
+
+Feature: ('xbox',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ("won't",)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('even',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('sign',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('onto',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('account',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('offline',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('handset',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('submitted',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('service',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('centre',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('last',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('8',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('months',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('looking',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('replacement',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('930',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('border',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('controls',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('restored',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('pity',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('listen',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('before',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('late',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('little',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('worried',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('collection',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('meant',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('go',)
+Positive: 5
+Log-likelihood: 1.0939293407637276
+
+Feature: ('available',)
+Positive: 4
+Log-likelihood: 1.2163953243244934
+
+Feature: ('saved',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('later',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('basket',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('increase',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('price',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('#moderncurses',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('back',)
+Positive: 8
+Log-likelihood: 1.1157177565710485
+
+Feature: ('pack',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('weeks',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('ago',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('turns',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('lost',)
+Negative: 2
+Log-likelihood: 1.6479184330021648
+
+Feature: ('package',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('school',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('starts',)
+Positive: 3
+Log-likelihood: 1.1507282898071236
+
+Feature: ('tomorrow',)
+Positive: 26
+Log-likelihood: 1.0189888555368714
+
+Feature: ('#sick',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('released',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('qhd',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('takes',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('2k',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('resolution',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('omg',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('use',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('credit',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('card',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('reward',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('points',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('preorders',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('18th',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('wait',)
+Positive: 5
+Log-likelihood: 1.0939293407637276
+
+Feature: ('author',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('reviewed',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('book',)
+Positive: 4
+Log-likelihood: 1.1157177565710485
+
+Feature: ('grab',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('cap',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('pull',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('down',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('damnit',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ("you're",)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('ship',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('8th',)
+Negative: 2
+Log-likelihood: 4
+
+Feature: ('expect',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('jelly',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('because',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('tight',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('dates',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('exact',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('reason',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('preorder',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('releases',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('always',)
+Positive: 2
+Log-likelihood: 1.2163953243244934
+
+Feature: ('push',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('u2',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('breaking',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('apple',)
+Positive: 15
+Log-likelihood: 1.1228466958050944
+
+Feature: ('devices',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('feel',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ("i'll",)
+Positive: 3
+Log-likelihood: 1.1507282898071236
+
+Feature: ('lose',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('whatever',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('cool',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('creds',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('had',)
+Positive: 3
+Log-likelihood: 1.1507282898071236
+
+Feature: ('saying',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('honestly',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('event',)
+Positive: 15
+Log-likelihood: 1.0939293407637276
+
+Feature: ('rainforest',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('lungs',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('10th',)
+Positive: 4
+Log-likelihood: 1.1157177565710485
+
+Feature: ('trees',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('decades',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('oddly',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('stream',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('edge',)
+Positive: 1
+Log-likelihood: 1.3862943611198906
+
+Feature: ('browser',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('chrome',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('depressing',)
+Negative: 1
+Log-likelihood: 4
+
+Feature: ('members',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('which',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('shop',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('7',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('goes',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('patients',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('using',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('autism',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('sprinter',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('link',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('new',)
+Positive: 13
+Log-likelihood: 4
+
+Feature: ('good',)
+Positive: 7
+Log-likelihood: 4
+
+Feature: ('getting',)
+Positive: 4
+Log-likelihood: 4
+
+Feature: ('offering',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('tips',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('taking',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('advantage',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('check',)
+Positive: 6
+Log-likelihood: 4
+
+Feature: ('#wishlist',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('full',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('force',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('cnet',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('keeping',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('updated',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('list',)
+Positive: 6
+Log-likelihood: 4
+
+Feature: ('best',)
+Positive: 6
+Log-likelihood: 4
+
+Feature: ('eligible',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#amazonsmile',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('purchases',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('earns',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('0',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('30',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('trial',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('take',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('sales',)
+Positive: 4
+Log-likelihood: 4
+
+Feature: ('outsold',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#theverge',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('over',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('created',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('own',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('holiday',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('amazing',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('consider',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('shoppers',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('there',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('wanting',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('15',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('faa',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('approved',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('airplane',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('seat',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('belt',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('extender',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('34',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('million',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('records',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('398',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('per',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('second',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('miss',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('15th',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('yay',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('#ad',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#prepforprime',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#happyprimeday',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('broke',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('exceeding',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('2014',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('biggest',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('date',)
+Positive: 4
+Log-likelihood: 4
+
+Feature: ('despite',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('funny',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('posts',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('lack',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('discounts',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('beat',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('tops',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('first',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('da',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('true',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('tell',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('14yr',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('girl',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('cant',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('everyone',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('watch',)
+Positive: 6
+Log-likelihood: 4
+
+Feature: ('crave',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#applewatch',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('works',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('s',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('designer',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('smart',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('lock',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#charlesmilander',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('see',)
+Positive: 10
+Log-likelihood: 4
+
+Feature: ('copy',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('bringing',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('discovered',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("bobby's",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('unlimited',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('watching',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('while',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('bike',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('hammond',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('clarkson',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('signed',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('via',)
+Positive: 5
+Log-likelihood: 4
+
+Feature: ('#amazonprime',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#hammond',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#clarkson',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#may',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('summary',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('order',)
+Positive: 6
+Log-likelihood: 4
+
+Feature: ('loads',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('stuff',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('essentials',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('nice',)
+Positive: 6
+Log-likelihood: 4
+
+Feature: ('bonus',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('seen',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('stumbled',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('across',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('them',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('planned',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('bbc',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('delighted',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('tv',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('series',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('period',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('detective',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('drama',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('d',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('cousins',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('bday',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('presents',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("they're",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('already',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('nearest',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('usps',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('location',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('innovation',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('jobs',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('corner',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('next',)
+Positive: 5
+Log-likelihood: 4
+
+Feature: ('8/19',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('ahhhhh',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('turntable',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('shouts',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('hope',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("you'll",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('feature',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('itunes',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('top',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('searched',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('topics',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('surprise',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#backtoschool',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('since',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('we',)
+Positive: 7
+Log-likelihood: 4
+
+Feature: ('done',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('justified',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('lt',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('g',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('gt',)
+Positive: 4
+Log-likelihood: 4
+
+Feature: ('iot',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('workshop',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('11pm',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('definitely',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('inspiration',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#hacktheplanet',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('car',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('gear',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('cheers',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('kids',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('few',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('beers',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('listening',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('taylor',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('swift',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('motorhead',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('yes',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('also',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('26th',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('buckcherry',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('starland',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('28th',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('carney',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('abba',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('quite',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('mind',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('morning',)
+Positive: 5
+Log-likelihood: 4
+
+Feature: ('thank',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('goodness',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('handle',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('love',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('placed',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('lunchtime',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('impatient',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('coming',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('momma',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('smash',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('hello',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('lovelies',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('super',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('thai',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('food',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('raunchy',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('dancing',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('during',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('warm',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('lot',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('boys',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('woman',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('carly',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('fiorina',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('smartest',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("that's",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('movie',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('watched',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('turned',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('16',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('hitched',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('newcastle',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('went',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('left',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('obsessed',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('van',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('halen',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('carefree',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('media',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('march',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('ideological',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('lockstep',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('husband',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('catch',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('starting',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('sept',)
+Positive: 4
+Log-likelihood: 4
+
+Feature: ('pax',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('overloaded',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('nintendo',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('indie',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('events',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('cider',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('um',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('bought',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('am',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('excitedly',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('freaking',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('lemme',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('addiction',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('store',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('purchase',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('umbrella',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('im',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('online',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('news',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('meetup',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('september',)
+Positive: 7
+Log-likelihood: 4
+
+Feature: ('ryan',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('berry',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('rsvp',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('pet',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('adoptions',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#upgradeyourworld',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('city',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('changing',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#300menmarch',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('closed',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('job',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('early',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('flight',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('boston',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('concert',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('ride',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('highs',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('money',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('yo',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#lookoutboston',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('reddit',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('gillette',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('forget',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('brady',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('shirt',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('know',)
+Positive: 4
+Log-likelihood: 4
+
+Feature: ('lunch',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('learns',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('public',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('join',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('31',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('surprising',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('mom',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('tickets',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('sitting',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('14th',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('row',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('tonight',)
+Positive: 4
+Log-likelihood: 4
+
+Feature: ("let's",)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('dinner',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('plan',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('12th',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('annual',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('ny',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('arab',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('american',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('comedy',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('festival',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('walked',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("couldn't",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('photo',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('congratulations',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('20th',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('birth',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('anniversary',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('95',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('20',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ("we've",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('come',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('backward',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('compatibility',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('moncton',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('sooner',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('montreal',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('31st',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('o',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('handset/smartphone',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('business',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#surfacephone',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('angus',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ("young's",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('flew',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('six',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('songs',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("ac/dc's",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('set',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('stadium',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('guitarist',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('enjoying',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('feasibility',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('replacing',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#cognos',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#bi',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('customer',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('year',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('melting',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('fucking',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('face',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('along',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('82',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('000',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('other',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('faces',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#acdc',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#metlife',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('he',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('stared',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('his',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('monitor',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('decision',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('puchase',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('suddenly',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('easy',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('steve',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('sarkisian',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('snaps',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('awake',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('tune',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#hr',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#hrmusicshare',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#hrpositive',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('used',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('harper',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('pete',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('cat',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('wish',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('parade',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('japan',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('netflix',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('hulu',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('services',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('operating',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('choose',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('ronettes',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('followed',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('survive',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('keeps',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('general',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('admission',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('ticket',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('downsview',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('park',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('pleasure',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('sick',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('waiting',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('bn',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('yup',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('treat',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('yourself',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('tablettv',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('bank',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('bucket',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('tour',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('ottawa',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('thurs',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('friends',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('trip',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('ont',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("he's",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('52',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('webcast',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('ya',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('nothing',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('under',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('history',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('repeats',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('brilliant',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('article',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('13th',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('concerts',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('young',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('probably',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('remembers',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('only',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('witness',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('found',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('quest',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('camelot',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('afternoon',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('complete',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('spent',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('someone',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('ouija',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('board',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('finding',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#adult',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('successful',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('bumps',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('direction',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('shows',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('entertainment',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('rocks',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('69',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('hand',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('god',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('9/4',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('wtg',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('loved',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('blacklist',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('speak',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#msapc2015',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('fly',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#nyc',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('weekend',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('#inbound15',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('field',)
+Positive: 4
+Log-likelihood: 4
+
+Feature: ('td',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('gets',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('ready',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('play',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('24',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('hours',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('bid',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('auction',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('presenting',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('talk',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('frequent',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('flier',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('finally',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('membership',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#flying',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#amazon',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('ford',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('old',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('rock',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('fan',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('wanna',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#supershow',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('grocery',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('instacart',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('test',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('work',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('start',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('labor',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('led',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('zeppelin',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('aerosmith',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('lava',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('honour',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("we'll",)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('sound',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('system',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('couple',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('stage',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('wearing',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('tux',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('white',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('dress',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('lol',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('ok',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('luck',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('pitch',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('battlers',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('win',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#snapdragon',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#toshiba',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('playing',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('inside',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('adult',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('25th',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('europe',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('whole',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('must',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('help',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#world',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#news',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('inviting',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#ibcshow',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('amsterdam',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('fun',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('week',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('ahead',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('san',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('diego',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('lions',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('opener',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#funtimes',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('tired',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('6th',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('grade',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#butitshisfavoriteband',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('m/',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('were',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('midway',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('beer',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('safe',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('travels',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('eddie',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('detroit',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('upgrade',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('os',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('learn',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#palmcoast',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('9th',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('#producers',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('dallas',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#atl',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('spot',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('cute',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('pjs',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('survivor',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('family',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('lets',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('yep',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('plane',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('sells',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('anything',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('including',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('cloud',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('absolute',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('disruption',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('listed',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('edition',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('revised',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('thorough',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('410',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('page',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('dad',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('thunderstruck',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('bc',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('played',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('hockey',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('thunder',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('aka',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('song',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('man',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('castle',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('instant',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('november',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('nexus',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('6',)
+Positive: 3
+Log-likelihood: 4
+
+Feature: ('drops',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('349',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('buy',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('cut',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('b',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('releasing',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('vod',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('oct',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('dvd',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('dec',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('title',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('amorous',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('eating',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('appears',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('soon',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('include',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('restaurant',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('meet',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('twitter',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('travel',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('related',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("we're",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('highly',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('recommend',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('curiosity',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('amanda',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('google',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('outlets',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('several',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('mongoose',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("they'll",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('doorstep',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('gonna',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('teenage',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('mutant',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('ninja',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('turtles',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('gods',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('mercy',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('soul',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('instead',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('reading',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('class',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('head',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('spinning',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('dont',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('mess',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('blenders',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('door',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('cooking',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('50',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('tablet',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('oh',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('welcome',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('missed',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('easter',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('april',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('2016',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#preorder',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#live',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('vivid',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('pre',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('kindle',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('october',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('11th',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('happiness',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('cause',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('notified',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('bluray',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('version',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('gotham',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('planner',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('roses',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('red',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('review',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('double',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('digits',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('64gb',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('shipped',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('two',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('exciting',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('fest',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('unprecedented',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('move',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('supporting',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("today's",)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('microsoft',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("apple's",)
+Positive: 7
+Log-likelihood: 4
+
+Feature: ('fallen',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('chair',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('excitment',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('thems',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('breaks',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('fire',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('email',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('forward',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#narrative',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#science',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('patch',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('incorporated',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('56',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('fixes',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#security',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#vulnerabilities',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('active',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#exploits',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('insane',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('hiring',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('fair',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('11',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('25',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('hr',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('shift',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('differential',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('transportation',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('benefits',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('2015',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('goosebumps',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('announcement',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('10am',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('website',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('chemistry',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('sprinting',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('dorm',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('glare',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('read',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('sunlight',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('fans',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#appleevent',)
+Positive: 5
+Log-likelihood: 4
+
+Feature: ('1pm',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('est',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('happy',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('sub',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('shortly',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('iphone',)
+Positive: 4
+Log-likelihood: 4
+
+Feature: ('launch',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('9am',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('pst',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('exec',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('confirmed',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('seeing',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('chick',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('showcase',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('bunch',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('products',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('rookie',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('mistake',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('2d',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('hilarious',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('same',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('nope',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('weapons',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#destinythegame',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#apple',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('bigger/expensive',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('tablets',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('chat',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('smaller/cheaper',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('rumor',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('likely',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('unveil',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('iphones',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('9',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('sep',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('6s',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('plus',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('6c',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('thats',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('scoured',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('snatched',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('fast',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('android',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('fanboys',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('squealing',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('coverage',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('gives',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('projects',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('launched',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('june',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('gate',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('97',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('satisfaction',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#applelive',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('think',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ("they'd",)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('album',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('however',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('explain',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('performing',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('stereo',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('seem',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('minor',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('audiophile',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('appreciate',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('finished',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#thegirlwho',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('pt2',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('wow',)
+Positive: 2
+Log-likelihood: 4
+
+Feature: ('part',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('ad',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('shocking',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('todays',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('doing',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('demo',)
+Positive: 1
+Log-likelihood: 4
+
+Feature: ('#ipadpro',)
+Positive: 1
+Log-likelihood: 4
+
