@@ -22,6 +22,19 @@ Algorithm:
 4. Create Pandas Series for predictions and keys
 5. Use pandas.crosstab to create confusion matrix
 6. Print out information and confusion matrix
+
+-------------------
+Results (Accuracy):
+-------------------
+72.41% w/ 1-gram [BEST]
+71.55% w/ 2-gram
+66.38% w/ 3-gram [WORST]
+68.53% w/ 4-gram
+68.97% w/ 5-gram
+68.53% w/ 6-gram
+69.83% w/ 7-gram
+69.83% w/ 8-gram
+69.40% w/ 9-gram
 '''
 import sys
 from sentiment import getSentiments

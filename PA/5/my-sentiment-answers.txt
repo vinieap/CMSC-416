@@ -1,4 +1,4 @@
-<answer instance="620979391984566272" sentiment="negative"/>
+<answer instance="620979391984566272" sentiment="positive"/>
 <answer instance="621340584804888578" sentiment="positive"/>
 <answer instance="621351052047028224" sentiment="positive"/>
 <answer instance="621357165211742208" sentiment="positive"/>
@@ -14,7 +14,7 @@
 <answer instance="621499402474139648" sentiment="positive"/>
 <answer instance="621513803532890113" sentiment="positive"/>
 <answer instance="621519370921967620" sentiment="positive"/>
-<answer instance="621675777654935552" sentiment="negative"/>
+<answer instance="621675777654935552" sentiment="positive"/>
 <answer instance="621701322815995904" sentiment="negative"/>
 <answer instance="621726465067847680" sentiment="positive"/>
 <answer instance="622029088044261376" sentiment="positive"/>
@@ -32,7 +32,7 @@
 <answer instance="632536348419690496" sentiment="positive"/>
 <answer instance="632805868334153728" sentiment="positive"/>
 <answer instance="633021033281388544" sentiment="positive"/>
-<answer instance="633119630417129476" sentiment="negative"/>
+<answer instance="633119630417129476" sentiment="positive"/>
 <answer instance="633500866096574464" sentiment="positive"/>
 <answer instance="633905855797309440" sentiment="positive"/>
 <answer instance="634005145563570176" sentiment="positive"/>
@@ -47,9 +47,9 @@
 <answer instance="636861074256592896" sentiment="positive"/>
 <answer instance="637179517832982528" sentiment="positive"/>
 <answer instance="637830987108343808" sentiment="positive"/>
-<answer instance="638643398090620928" sentiment="negative"/>
+<answer instance="638643398090620928" sentiment="positive"/>
 <answer instance="639111212870037504" sentiment="positive"/>
-<answer instance="639292679524872192" sentiment="negative"/>
+<answer instance="639292679524872192" sentiment="positive"/>
 <answer instance="639716079430967296" sentiment="positive"/>
 <answer instance="640261386417897473" sentiment="positive"/>
 <answer instance="640278345461141504" sentiment="positive"/>
@@ -62,14 +62,14 @@
 <answer instance="641368424145387521" sentiment="positive"/>
 <answer instance="641437722045890561" sentiment="positive"/>
 <answer instance="641472127665864704" sentiment="positive"/>
-<answer instance="641499203730960384" sentiment="negative"/>
+<answer instance="641499203730960384" sentiment="positive"/>
 <answer instance="641510138235367424" sentiment="positive"/>
 <answer instance="641586058388344832" sentiment="positive"/>
 <answer instance="641605506973306880" sentiment="positive"/>
 <answer instance="641629245790404608" sentiment="positive"/>
 <answer instance="641648879646175232" sentiment="positive"/>
 <answer instance="641654885583351808" sentiment="positive"/>
-<answer instance="641661164783468545" sentiment="negative"/>
+<answer instance="641661164783468545" sentiment="positive"/>
 <answer instance="620838510191362048" sentiment="positive"/>
 <answer instance="621335034859925504" sentiment="positive"/>
 <answer instance="621339506529054720" sentiment="positive"/>

@@ -306,7 +306,7 @@ def createOutputLines(instances, answers):
 
 def main():
 	# Ngram value
-	n = 1
+	n = 9
 
 	# Get files
 	training_file, testing_file, model_file = get_files()
