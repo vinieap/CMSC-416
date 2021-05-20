@@ -1,5 +1,4 @@
 # CMSC-416: Natural Language Processing
-## Lecture Slides
 
 ## Programming Assignments
 ### 1. Psychotherapist Bot
